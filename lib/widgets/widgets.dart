@@ -1,0 +1,9 @@
+export 'widgets/my_custom_appBar.dart';
+export 'widgets/my_custom_bottom_nav_bar.dart';
+export 'widgets/slider.dart';
+export 'widgets/section_title.dart';
+export 'widgets/product_card.dart';
+export 'widgets/Products_carousel.dart';
+export 'widgets/products_screen_widgets/name_and_price.dart';
+export 'widgets/products_screen_widgets/expansion_tile.dart';
+export 'widgets/cart_screen_widgets/custom_listTile.dart';
