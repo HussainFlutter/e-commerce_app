@@ -6,7 +6,7 @@ A fully functional e-commerce application built using Flutter and the BLoC (Busi
 
 ## Demo Video  
 Check out the demo of the app:  
-[https://www.linkedin.com/posts/hussain-ali-0805b8282_added-a-search-barprofile-screen-which-will-activity-7133575268455096320-MjjP?utm_source=share&utm_medium=member_desktop](#)  
+[Demo Video Link](https://www.linkedin.com/posts/hussain-ali-0805b8282_added-a-search-barprofile-screen-which-will-activity-7133575268455096320-MjjP?utm_source=share&utm_medium=member_desktop)  
 
 ---
 ## Features  
